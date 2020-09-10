@@ -18,11 +18,14 @@ STR_0009    :Mini Suspended Coaster
 #STR_0010    :Boat Hire (Dock)
 STR_0010    :Paxht'ala
 STR_0011    :Wooden Wild Mouse
+# Could translate this as a basic horse-riding coaster
+# I guess. Or, as a "single-rail" roller coaster.
 STR_0012    :Steeplechase
 STR_0013    :Car Ride
 STR_0014    :Launched Freefall
 STR_0015    :Bobsleigh Coaster
 STR_0016    :Observation Tower
+# i.e. inverting roller coaster
 STR_0017    :Looping Roller Coaster
 STR_0018    :Dinghy Slide
 STR_0019    :Mine Train Coaster
@@ -52,6 +55,7 @@ STR_0041    :3D Cinema
 STR_0042    :Top Spin
 STR_0043    :Space Rings
 STR_0044    :Reverse Freefall Coaster
+# i.e. Elevator
 STR_0045    :Lift
 STR_0046    :Vertical Drop Roller Coaster
 STR_0047    :Cash Machine
@@ -60,6 +64,7 @@ STR_0048    :Twist
 STR_0049    :Haunted House
 STR_0050    :First Aid Room
 STR_0051    :Circus
+# See lelulhelalh - ghost dance
 STR_0052    :Ghost Train
 STR_0053    :Twister Roller Coaster
 STR_0054    :Wooden Roller Coaster
@@ -69,6 +74,7 @@ STR_0057    :Multi-Dimension Roller Coaster
 STR_0058    :Unknown Ride (38)
 STR_0059    :Flying Roller Coaster
 STR_0060    :Unknown Ride (3A)
+# Might be able to just transcribe this one.
 STR_0061    :Virginia Reel
 STR_0062    :Splash Boats
 STR_0063    :Mini Helicopters
@@ -78,9 +84,12 @@ STR_0066    :Unknown Ride (40)
 STR_0067    :Reverser Roller Coaster
 STR_0068    :Heartline Twister Coaster
 STR_0069    :Mini Golf
+# i.e. Very Tall Roller Coaster
 STR_0070    :Giga Coaster
+# i.e. Rotating Drop
 STR_0071    :Roto-Drop
 STR_0072    :Flying Saucers
+# This should be easy... I said, naively.
 STR_0073    :Crooked House
 STR_0074    :Monorail Cycles
 STR_0075    :Compact Inverted Coaster
@@ -1431,6 +1440,12 @@ STR_1855    :{WINDOW_COLOUR_2}Built: {BLACK}{COMMA16} Years Ago
 STR_1856    :{WINDOW_COLOUR_2}Profit per item sold: {BLACK}{CURRENCY2DP}
 STR_1857    :{WINDOW_COLOUR_2}Loss per item sold: {BLACK}{CURRENCY2DP}
 STR_1858    :{WINDOW_COLOUR_2}Cost: {BLACK}{CURRENCY2DP} per month
+# Employees/Staff
+# Handymen: Clean up litter/vomit, empty trashcans,
+# water flowers, and mow grass.
+# Mechanics: Repair/Inspect Rides
+# Security Guards: Supposedly, deter vandalism.
+# Entertainers: Dance around/act out, improving guests' happiness
 STR_1859    :Handymen
 STR_1860    :Mechanics
 STR_1861    :Security Guards
@@ -1574,7 +1589,8 @@ STR_2002    :Voucher
 STR_2003    :Popcorn
 STR_2004    :Hot Dog
 STR_2005    :Tentacle
-STR_2006    :Hat
+#STR_2006    :Hat
+STR_2006    :Tletemlh
 STR_2007    :Toffee Apple
 STR_2008    :T-Shirt
 STR_2009    :Doughnut
